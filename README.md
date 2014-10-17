@@ -1,1 +1,3 @@
-# This repo and README were created automatically.
+# Dash docset generator
+
+Coming soon...
